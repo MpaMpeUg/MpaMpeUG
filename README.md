@@ -4,7 +4,7 @@
 
 MpaMpe is a web based hybrid platform that seeks to help charities,individuals and organisations to digitally fundraise in order to stay up to date with spending habbits of their audience as well as providing transparency during the collection.
 
-MpaMpe accepts both fiat and crypto donations and this is an MVP that is currently under active development. 
+MpaMpe accepts both fiat and crypto donations and we are currently in a prototype phase with active development. 
 
 MpaMpe locally means *```Give Me I give Out```* MpaMpe is simply a hybrid crowdfunding application that targets Ugandan ecosystem.
 
